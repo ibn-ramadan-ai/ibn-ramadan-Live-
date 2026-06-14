@@ -1,0 +1,6 @@
+{
+  "name": "Ibn Ramadan AI Live",
+  "description": "AI Live Assist & Presentation Platform optimized for TikTok and OBS streaming",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
